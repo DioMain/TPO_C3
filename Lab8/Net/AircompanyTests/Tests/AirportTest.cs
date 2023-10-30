@@ -49,7 +49,7 @@ namespace AircompanyTests.Tests
 
             airport.SortByMaxLoadCapacity();
 
-            Assert.Greater(airport.Planes[0].MaxLoadCapacity, airport.Planes[1].MaxLoadCapacity);
+            Assert.Greater(airport.Planes[1].MaxLoadCapacity, airport.Planes[0].MaxLoadCapacity);
         }
     }
 }
