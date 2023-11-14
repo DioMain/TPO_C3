@@ -10,14 +10,14 @@
         "projectUniqueName": "D:\\UnicLabs\\3Cource\\TPO_C3\\SeleniumTest(Lab9)\\Tests\\SteamTests\\SteamTests.csproj",
         "projectName": "SteamTests",
         "projectPath": "D:\\UnicLabs\\3Cource\\TPO_C3\\SeleniumTest(Lab9)\\Tests\\SteamTests\\SteamTests.csproj",
-        "packagesPath": "C:\\Users\\Xyandopovich\\.nuget\\packages\\",
+        "packagesPath": "C:\\Windows\\system32\\config\\systemprofile\\.nuget\\packages\\",
         "outputPath": "D:\\UnicLabs\\3Cource\\TPO_C3\\SeleniumTest(Lab9)\\Tests\\SteamTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Xyandopovich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
