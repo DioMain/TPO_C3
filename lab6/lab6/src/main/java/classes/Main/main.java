@@ -1,16 +1,6 @@
 package classes.Main;
 
-import classes.*;
-import classes.Abiturient;
-import classes.Book;
-import classes.Car;
-import classes.Customer;
-import classes.House;
-import classes.Patient;
-import classes.Phone;
-import classes.Product;
-import classes.Student;
-import classes.Train;
+import classes.classes.*;
 
 import java.sql.Time;
 import java.util.Scanner;
@@ -49,7 +39,7 @@ public class main {
                 }
                 case 2:
                 {
-                    classes.Customer[] customers = Customer.getArrCustomer();
+                    Customer[] customers = Customer.getArrCustomer();
 
                     for (var item:
                             customers) {
