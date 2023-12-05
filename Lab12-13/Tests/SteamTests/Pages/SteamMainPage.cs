@@ -58,8 +58,6 @@ namespace SteamTests.Pages
 
         public ProfilePage OpenProfilePage()
         {
-            //nameButton.();
-
             profileButton.Click();
 
             return new ProfilePage(driver);

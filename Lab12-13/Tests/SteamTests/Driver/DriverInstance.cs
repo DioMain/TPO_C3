@@ -2,6 +2,7 @@
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Edge;
 using OpenQA.Selenium.Firefox;
+using SteamTests.Service;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -42,6 +43,8 @@ namespace SteamTests.Driver
 
             driver?.Manage().Timeouts().ImplicitWait.Add(TimeSpan.FromSeconds(30));
             driver?.Manage().Window.Maximize();
+
+            LoggerService.WriteLine("Driver started!");
         }
 
         public static void CloseDriver()
@@ -50,7 +53,10 @@ namespace SteamTests.Driver
             {
                 driver?.Close();
                 driver?.Dispose();
+                driver = null;
             }
+
+            LoggerService.WriteLine("Driver stoped!");
         }
     }
 }

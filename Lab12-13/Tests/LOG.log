@@ -1,0 +1,49 @@
+[05.12.2023 08:15:00] Driver started!
+[05.12.2023 08:15:45] CyrillicSearchTest ended with [False] result!
+[05.12.2023 08:15:47] Driver stoped!
+[05.12.2023 08:17:02] Driver started!
+[05.12.2023 08:17:08] DeleteFromWishlist ended with [True] result!
+[05.12.2023 08:17:10] Driver stoped!
+[05.12.2023 08:17:54] Driver started!
+[05.12.2023 08:18:01] DeleteFromWishlist ended with [True] result!
+[05.12.2023 08:18:03] Driver stoped!
+[05.12.2023 08:18:38] Driver started!
+[05.12.2023 08:18:43] DeleteFromWishlist ended with [True] result!
+[05.12.2023 08:18:43] Driver started!
+[05.12.2023 08:19:08] DeleteFromWishlist ended with [True] result!
+[05.12.2023 08:19:08] Driver started!
+[05.12.2023 08:19:43] CyrillicSearchTest ended with [False] result!
+[05.12.2023 08:19:43] Driver started!
+[05.12.2023 08:19:50] DeleteFromWishlist ended with [True] result!
+[05.12.2023 08:19:50] Driver started!
+[05.12.2023 08:20:13] NoMoneyBuyTest ended with [В кошельке Steam недостаточно средств для совершения операции!] result!
+[05.12.2023 08:21:00] Driver started!
+[05.12.2023 08:21:05] DeleteFromWishlist ended with [True] result!
+[05.12.2023 08:21:06] Driver stoped!
+[05.12.2023 08:21:09] Driver started!
+[05.12.2023 08:21:24] DeleteFromWishlist ended with [True] result!
+[05.12.2023 08:21:25] Driver stoped!
+[05.12.2023 08:21:29] Driver started!
+[05.12.2023 08:22:04] CyrillicSearchTest ended with [False] result!
+[05.12.2023 08:22:06] Driver stoped!
+[05.12.2023 08:22:10] Driver started!
+[05.12.2023 08:31:01] Driver stoped!
+[05.12.2023 08:31:03] Driver stoped!
+[05.12.2023 08:31:06] Driver stoped!
+[05.12.2023 08:31:08] Driver stoped!
+[05.12.2023 08:31:10] Driver stoped!
+[05.12.2023 08:31:28] Driver started!
+[05.12.2023 08:31:33] DeleteFromWishlist ended with [True] result!
+[05.12.2023 08:31:34] Driver stoped!
+[05.12.2023 08:31:38] Driver started!
+[05.12.2023 08:31:47] DeleteFromWishlist ended with [True] result!
+[05.12.2023 08:31:49] Driver stoped!
+[05.12.2023 08:31:52] Driver started!
+[05.12.2023 08:32:27] CyrillicSearchTest ended with [False] result!
+[05.12.2023 08:32:29] Driver stoped!
+[05.12.2023 08:32:32] Driver started!
+[05.12.2023 08:32:39] DeleteFromWishlist ended with [True] result!
+[05.12.2023 08:32:40] Driver stoped!
+[05.12.2023 08:32:44] Driver started!
+[05.12.2023 08:32:52] NoMoneyBuyTest ended with [В кошельке Steam недостаточно средств для совершения операции!] result!
+[05.12.2023 08:32:54] Driver stoped!
